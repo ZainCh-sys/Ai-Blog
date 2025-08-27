@@ -2,66 +2,85 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Future is Now: What Computers Will Look Like in 50 Years</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        h2 {
-            color: #558B2F;
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 5px;
-        }
-        p {
-            margin-bottom: 15px;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 5px;
-        }
-        .footer {
-            text-align: center;
-            font-size: 14px;
-            color: #777;
-            margin-top: 20px;
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tech in 2033: What’s Really Coming?</title>
+<style>
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.highlight {
+  font-weight: bold;
+  color: #007BFF;
+}
+
+.key {
+  color: #28A745;
+}
+
+.section-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.section-title h2 {
+  color: #007BFF;
+}
+
+.section-title .key {
+  color: #28A745;
+}
+
+.section-heading {
+  color: #333;
+  font-size: 28px;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.intro {
+  margin-bottom: 20px;
+  padding: 20px;
+  border-bottom: 1px solid #eee;
+  border-radius: 8px;
+}
+
+.intro .section-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.section-title .key {
+  font-size: 20px;
+  color: #28A745;
+}
+
+.section-title .section-heading {
+  font-size: 28px;
+  font-weight: bold;
+  color: #333;
+}
+</style>
 </head>
 <body>
 
-    <div class="container">
-        <h1>The Future is Now: What Computers Will Look Like in 50 Years</h1>
-
-        <p>You know, it’s funny. Thinking about the future feels like looking into a hazy mirror. We’re always predicting what’s next, but sometimes the reality feels a little… distant. So, let’s zoom in on computers. In the next 50 years, things are going to shift *wild*. It’s not just faster processing or fancier screens – it’s a complete reimagining of how we interact with technology. It’s going to be genuinely fascinating.</p>
-
-        <p>Right now, computers are mostly about data and processing. They’re incredibly powerful, but they’re still largely about what you tell them to *do*. Think about your smartphone – it’s a computer, but it’s incredibly specialized. We’re moving beyond that. The next 50 years will see computers evolve in ways we can only dream of now.</p>
-
-        <p>Here’s a breakdown of some key areas of change:</p>
-
-        <ul>
-            <li><b>AI – It's Not Just a Buzzword</b> – Artificial intelligence is already impacting our lives, but in 50 years, it’ll be far more integrated. We’re talking about AI that *understands* you, anticipates your needs, and can create entirely new things.</li>
-            <li><b>Neural Networks – Brain-Computer Interfaces</b> – These networks are changing how we interact with computers. They’re becoming incredibly sophisticated. Imagine controlling a device simply by *thinking* about it. We’re one step closer to brain-computer interfaces – technology that could potentially allow us to directly input commands into computers. It’s a big leap, but one that’s being researched *now*.</li>
-            <li><b>Quantum Computing – A Serious Shift</b> – Quantum computers are still in their infancy, but they have the potential to solve problems that are currently impossible for even the most powerful supercomputers. They could revolutionize fields like medicine, materials science, and cryptography.  Think of it as a completely different level of speed and accuracy.</li>
-            <li><b>Materials Science – 3D Printing 2.0</b> – 3D printing will become incredibly advanced. We’ll see the creation of incredibly complex structures – think entire houses, customized organs, or even replacement parts for failing machines – all with minimal waste.</li>
-        </ul>
-
-        <p>More than just software – hardware evolution will also transform. We’ll likely see:</p>
-
-        <ul>
-            <li><b>Brain-Integrated Computers – It's Not Just a Device</b> – Instead of just a device on your desk, computers might be embedded directly into our brains – offering unparalleled data processing and sensory experiences. Currently, this is mostly science fiction, but research is progressing.</li>
-            <li><b>Self-Repairing Hardware</b> – Components will be designed to fix themselves. Think of
+<div class="intro">
+  <h2 class="section-title">Tech in 2033: What’s Really Coming?</h2>
+  <p class="section-heading">Right now, AI is dominating headlines, and for good reason. But in 2033, it’s going to be far more interwoven into the fabric of everything. It’s not just about chatbots; it’s about algorithms learning *everything*.  Think about it:</p>
+  <p>AI will be doing your grocery shopping, designing personalized learning plans for your kids, and even helping doctors diagnose diseases with far more accuracy than we have now.</p>
+  <p>So, let’s look at some key areas:</p>
+  <ul class="section-heading">
+    <li class="key">The Biggest Shifts – A Glimpse</li>
+    <li class="key">AI will be doing your grocery shopping, designing personalized learning plans for your kids, and even helping doctors diagnose diseases with far more accuracy than we have now.</li>
+    <li class="key">It’s not just about gaming – it’s about augmenting reality.  Imagine surgeons practicing complex procedures in a realistic, shared digital environment, or architects walking through building designs *before* a single brick is laid. It’s not about escaping reality, it’s about augmenting it.  It’s a fundamental shift in how we work and socialize.</li>
+    <li class="key">AI will be doing your grocery shopping, designing personalized learning plans for your kids, and even helping doctors diagnose diseases with far more accuracy than we have now.</li>
+    <li class="key">It’s not just about gaming – it’s about augmenting reality.  Imagine surgeons practicing complex procedures in a realistic, shared digital environment, or architects walking through building designs *before* a single brick is laid. It’s not about escaping reality, it’s about augmenting it.  It’s a fundamental shift in how we work and socialize.</li>
+    <li class="key">AI will be doing your grocery shopping, designing personalized learning plans for your kids, and even helping doctors diagnose diseases with far more accuracy than we have now.</li>
+    <li class="key">It’s not just about gaming – it’s about augmenting reality.  Imagine surgeons practicing complex procedures in a realistic, shared digital environment, or architects walking through building designs *before* a single brick is laid. It’s not about escaping reality, it’s about augmenting it.  It’s a fundamental shift in how we
