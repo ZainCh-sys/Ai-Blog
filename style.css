@@ -2,119 +2,58 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Tech Future - A Look Ahead</title>
-<style>
-body {
-  font-family: sans-serif;
-  line-height: 1.6;
-  margin: 20px;
-}
-
-h1 {
-  text-align: center;
-  color: #333;
-}
-
-h2 {
-  color: #558B2F;
-}
-
-p {
-  margin-bottom: 1em;
-}
-
-.section {
-  margin-bottom: 2em;
-}
-
-.title {
-  font-size: 2em;
-  color: #444;
-}
-
-.paragraph {
-  font-size: 1.2em;
-  margin-bottom: 1em;
-}
-
-.image {
-  max-width: 80%;
-  height: auto;
-  display: block;
-  margin-bottom: 1em;
-}
-
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.section-title {
-  font-size: 2em;
-  font-weight: bold;
-  color: #333;
-  margin-bottom: 2em;
-  text-align: center;
-}
-
-.section {
-  margin-bottom: 2em;
-}
-
-.section h2 {
-  color: #558B2F;
-}
-
-.section p {
-  margin-bottom: 1em;
-}
-
-.section-title .title {
-  font-size: 2em;
-  font-weight: bold;
-  color: #444;
-  margin-bottom: 1em;
-  text-align: center;
-}
-
-.section .paragraph {
-  font-size: 1.2em;
-  margin-bottom: 1em;
-}
-
-.section .image {
-  max-width: 80%;
-  height: auto;
-  display: block;
-  margin-bottom: 1em;
-}
-
-.container .section-title {
-  font-size: 2em;
-  font-weight: bold;
-  color: #333;
-  margin-bottom: 2em;
-  text-align: center;
-}
-
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Future is Now: A Look at Tech in 25 Years</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #558B22;
+        }
+        p {
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+        ul {
+            list-style: disc;
+            margin-left: 20px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <h1>The Future is Now: A Look at Tech in 25 Years</h1>
 
-<h1>Tech Future - A Look Ahead</h1>
+    <p>The world of technology is poised for a monumental shift over the next half-century. What seems like science fiction today will become commonplace, profoundly shaping our lives in ways we can only begin to imagine. Let’s look at some of the key trends we anticipate:</p>
 
-<div class="container">
-  <section>
-    <h2 class="section-title">The Rise of Personalized Reality</h2>
-    <p>Right now, we mostly interact with digital interfaces - phones, computers, apps. In 25 years, expect a world where reality itself is partially personalized. AI will generate simulated realities, tailored to your individual needs and desires. Think of it like a really advanced video game – but it’s <b>real</b>. You'll likely have “digital twins” of yourself, constantly being tweaked and optimized by tech. It’s not about replacing reality, but augmenting it. We might even start to blur the lines between what’s real and what’s generated, leading to philosophical questions we can’t even fully grasp yet. Imagine a world where learning feels like a customizable experience - adjusting the difficulty based on your real-time brain state!</p>
-  </div>
+    <p><b>The Rise of Personalized Reality:</b> AI will move beyond simple assistants.  We'll be living in a world of simulated realities tailored to *each* individual. Imagine learning through dynamically adjusted experiences, your brain’s state influencing the pathway. This augmented reality will permeate everything – from education and entertainment to health and productivity.</p>
 
-  <div class="section">
-    <h2 class="section-title">AI – Beyond Assistants</h2>
-    <p>Forget basic chatbots. In 25 years, AI won’t just be helpful; it will be <b>integrated</b> into everything. It will be responsible for managing complex systems – traffic, energy grids, healthcare – all autonomously. This means more automation, but also potentially more job displacement, which is a serious consideration. It’s not about replacing people entirely, more about shifting roles. </p>
-  </div>
+    <p><b>AI – Beyond Assistants:</b> AI will be deeply embedded in our existence. It will not just be helpful, but actively anticipate your needs, managing complex systems like traffic, energy grids, and even healthcare autonomously. Expect a world where AI makes most routine tasks effortless, but also raises important questions about job security and ethical considerations.</p>
 
-  <div class="section">
-    <h2 class="section-title">The Metaverse – It’s Going to Be Bigger</h2>
-    <p>The metaverse isn’t just a game anymore. It’s going to become a persistent, shared digital space – a way to socialize, work, and even <b>live</b>. You’ll likely have a “digital identity” that adapts to your environment, and you’ll be able to seamlessly move between the physical and virtual worlds. It’s a place where
+    <p><b>The Metaverse – Bigger and More Persistent:</b> The metaverse isn’t just a game; it’s a persistent, shared digital space where you can build communities, create unique experiences, and own digital assets – like virtual land. However, protecting data privacy and digital ownership will be critical challenges.</p>
+
+    <p><b>Brain-Computer Interfaces:</b> The potential for BCIs to become truly seamless interaction is rapidly advancing.  Imagine controlling devices with your thoughts, significantly improving diagnostics, and enhancing our capabilities in ways we can barely conceive. Early iterations are clunky, but this is a crucial step towards a truly interconnected world.</p>
+
+    <p><b>Quantum Computing – A Revolution:</b> Quantum computing will move beyond theory and become a vital tool for innovation. It will dramatically accelerate drug discovery, material science, and cybersecurity, fueling breakthroughs in fields like personalized medicine and climate modeling. </p>
+
+    <p><b>Healthcare Revolutionized:</b>  AI will personalize healthcare on a scale never seen before. Our genetic data, lifestyle, and medical history will be analyzed to create individualized treatments, remote monitoring, and early disease detection. Gene editing technology will also become more refined, offering the potential to cure genetic diseases.</p>
+
+    <p><b>Space Exploration – Getting Closer:</b>  Space travel will become more integrated with Earth, driven by robotics, AI, and advanced materials. Asteroid mining, construction, and exploration will all be aided by automated probes and robotic systems.</p>
+
+    <p><b>Sustainability & Green Tech:</b>  Sustainability will be a top priority, accelerated by AI-driven optimization. We’ll see significant advancements in renewable energy, carbon capture, and climate modeling, ultimately helping to repair and reverse the damage of past mistakes.</p>
+
+    <p><b>Beyond Human:</b> We will expand our reach beyond Earth, exploring other planets with automated probes. A focus on advanced robotics will ensure our ability to survive and thrive beyond our planet.</p>
+
+    <p><b>Simulated Reality – Enhanced Experiences:</b>  We turn this into a website with html
+Only provide the html code ADD A CSS FILE TO WORK WITH THE HTML CODE 0 ERRORS ALLOWED IT WILL TAKE ANOTHER 30MIN TO RUN MAKE SURE THERE ARE 0 ERRORS DONT WASTE 30MIN OF MY TIME
+```
