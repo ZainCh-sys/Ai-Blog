@@ -1,201 +1,73 @@
 ```css
-/* CSS Styles for the Quantum Leap Website */
+/* CSS Styles - Replace with your desired values*/
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+  color: #333;
   line-height: 1.6;
-  margin: 20px;
-  background-color: #f7f7f7;
-  color: #333;
-  padding: 20px;
-}
-
-h1 {
-  text-align: center;
-  color: #333;
-  font-size: 36px;
-}
-
-h2 {
-  text-align: center;
-  color: #555;
-  margin-bottom: 20px;
-}
-
-h3 {
-  text-align: center;
-  color: #555;
-  margin-bottom: 10px;
-}
-
-p {
-  margin-bottom: 15px;
-}
-
-ol {
-  list-style: none;
-  padding-null;
-}
-
-ul {
-  list-style: disc;
-  margin-left: 20px;
-}
-
-.container {
-  width: 80%;
-  margin: 0 auto;
-  background-color: #f4f4f4;
-  padding: 20px;
-  border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+h1 {
+  font-size: 3em;
+  color: #007BFF;
+  text-align: center;
+  margin-bottom: 0.5em;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  margin-bottom: 1em;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-bottom: 0.5em;
+  color: #0056b3;
+  text-shadow: 2px 2px 4px #0056b3;
+}
+
+/* Hover Effects */
+.hover {
+  transition: transform 0.3s ease-in-out;
+}
+
+.hover:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+
+.hover:active {
+  transform: scale(0.95);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+}
+
+
+/*  Basic Styling - Replace with your preferred styles */
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 .title {
-  text-align: center;
+  font-size: 3.5em;
   color: #333;
-  font-size: 36px;
-  padding: 10px;
-  margin-bottom: 20px;
-}
-
-.h1 {
+  margin-bottom: 2em;
   text-align: center;
-  color: #333;
-  font-size: 36px;
 }
 
-.h2 {
-  text-align: center;
-  color: #555;
-  margin-bottom: 20px;
+.highlight {
+  color: #007BFF;
+  font-weight: bold;
 }
-
-.h3 {
-  text-align: center;
-  color: #555;
-  margin-bottom: 10px;
-}
-
-.p {
-  margin-bottom: 15px;
-}
-
-.ol {
-  list-style: none;
-  padding-null;
-}
-
-.ul {
-  list-style: disc;
-  margin-left: 20px;
-}
-
-.container .title {
-  padding: 20px;
-}
-
-.container .h1 {
-  font-size: 36px;
-}
-
-.container .h2 {
-  font-size: 34px;
-}
-
-.container .h3 {
-  font-size: 32px;
-}
-
-.container .p {
-  margin-bottom: 15px;
-}
-
-.container .ol {
-  list-style: none;
-  padding-null;
-}
-
-.ul .list-item {
-  margin-bottom: 10px;
-}
-
-.container .container .title {
-  padding: 20px;
-}
-
-.container .container .h1 {
-  font-size: 36px;
-}
-
-.container .container .h2 {
-  font-size: 34px;
-}
-
-.container .container .h3 {
-  font-size: 32px;
-}
-
-.container .container .p {
-  margin-bottom: 15px;
-}
-
-.container .container .ol {
-  list-style: none;
-  padding-null;
-}
-
-.container .container .ul {
-  margin-left: 20px;
-}
-
-/* Add background styling */
-.container {
-  background-color: #e0e0e0;
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-}
-
-.title .container {
-  padding: 20px;
-}
-
-.container .h1 {
-  font-size: 36px;
-  color: #333;
-}
-
-.container .h2 {
-  font-size: 34px;
-}
-
-.container .h3 {
-  font-size: 32px;
-}
-
-.container .p {
-  margin-bottom: 15px;
-}
-
-.container .ol {
-  list-style: none;
-  padding-null;
-}
-
-.container .container .ul {
-  margin-left: 20px;
-}
-
-
-/* Smooth transition */
-.container:hover {
-  transition: background-color 0.2s ease;
-}
-
-/* Add some visual padding */
-.container {
-  padding: 20px;
-}
-
 ```
