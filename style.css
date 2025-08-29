@@ -1,73 +1,185 @@
 ```css
-/* CSS Styles - Replace with your desired values*/
+/* CSS Styling for the Quantum Leap Website */
 
 body {
-  font-family: 'Roboto', sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f8f8f8;
-  color: #333;
-  line-height: 1.6;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f8f8f8;
+    color: #333;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
 h1 {
-  font-size: 3em;
-  color: #007BFF;
-  text-align: center;
-  margin-bottom: 0.5em;
-}
-
-p {
-  font-size: 1.2em;
-  line-height: 1.6;
-  margin-bottom: 1em;
+    font-size: 2.5em;
+    color: #333;
+    text-align: center;
 }
 
 h2 {
-  font-size: 1.8em;
-  margin-bottom: 0.5em;
-  color: #0056b3;
-  text-shadow: 2px 2px 4px #0056b3;
+    font-size: 1.8em;
+    margin-bottom: 15px;
 }
 
-/* Hover Effects */
-.hover {
-  transition: transform 0.3s ease-in-out;
+h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
 }
 
-.hover:hover {
-  transform: scale(1.05);
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+p {
+    margin-bottom: 15px;
 }
 
-.hover:active {
-  transform: scale(0.95);
-  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+ul {
+    list-style: normal;
+    margin-left: 20px;
 }
 
+li {
+    margin-bottom: 5px;
+}
 
-/*  Basic Styling - Replace with your preferred styles */
+strong {
+    font-weight: bold;
+}
 
 .container {
     width: 80%;
     margin: 20px auto;
-    padding: 20px;
     background-color: #fff;
+    padding: 20px;
     border-radius: 8px;
     border: 1px solid #ddd;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.title {
-  font-size: 3.5em;
-  color: #333;
-  margin-bottom: 2em;
-  text-align: center;
+.header {
+    background-color: #282828;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
-.highlight {
-  color: #007BFF;
-  font-weight: bold;
+.header h1 {
+    font-size: 2.5em;
+    color: #333;
+    text-align: center;
 }
+
+.container h1 {
+    font-size: 2.2em;
+    color: #333;
+    text-align: center;
+}
+
+.header .h2 {
+    font-size: 1.8em;
+    margin-bottom: 15px;
+}
+
+.header .h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.paragraph {
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.button {
+    background-color: #282828;
+    color: #fff;
+    padding: 15px 25px;
+    text-decoration: none;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.button:hover {
+    background-color: #218800;
+}
+
+.button {
+    display: block;
+    margin-top: 20px;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 800px;
+    height: 600px;
+    background-color: white;
+    border-radius: 10px;
+    overflow: auto;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+.modal {
+    background-color: #f9f9f9;
+}
+
+.modal .content {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.modal .content p {
+    margin: 0;
+}
+
+.modal .content h3 {
+    font-size: 1.3em;
+    margin-bottom: 10px;
+}
+
+.modal .content a {
+    color: #333;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+.modal .content a:hover {
+    text-decoration: underline;
+}
+
+
+/* Example:  Add additional styling for the button*/
+.button {
+    border: 1px solid #4CAF50;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #388E3C;
+}
+
 ```
